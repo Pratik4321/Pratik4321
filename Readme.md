@@ -9,7 +9,6 @@ I am **Pratik Giri**, a full stack Software Engineer working around the JavaScri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-giriii/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratik.giri__/)
-[![Discord](https://img.shields.io/badge/bsantosh909-5865F2?style=for-the-badge&logo=Discord&logoColor=white)]()
 
 ## Skills
 
@@ -19,16 +18,16 @@ Below mentioned are some of the skills I have. _In any way it doesn't mean that 
 ![Languages](https://skillicons.dev/icons?i=js,ts,solidity)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,nuxt,html,css,bootstrap,tailwind,scss,d3,redux)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,html,css,bootstrap,tailwind,scss,redux)
 
 #### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,nest,graphql,jest)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,graphql)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,nginx,markdown,netlify,vercel,vscode,cloudflare,figma,regex,linux,firebase)
+![Others](https://skillicons.dev/icons?i=git,github,gitlab,netlify,vercel,vscode,figma,regex,linux,firebase)
 
 <!--
 ## Some of my projects
